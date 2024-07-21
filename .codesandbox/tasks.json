@@ -6,8 +6,8 @@
       "command": "npm install flux --legacy-peer-deps"
     },
     {
-      "command": "npm install --legacy-peer-deps",
-      "name": "npm install flux --legacy-peer-deps"
+      "name": "npm install flux --legacy-peer-deps",
+      "command": "npm install --legacy-peer-deps"
     }
   ],
 
